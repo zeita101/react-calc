@@ -1,0 +1,17 @@
+.button-wrapper {
+  height: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* font-weight: lighter; */
+  font-size: 1.4em;
+  background-color: rgb(203, 219, 249);
+  color: cadetblue;
+  flex: 1;
+  outline: 1px solid rgb(6, 29, 70);
+}
+
+.operator {
+  background-color: salmon;
+  color: seashell;
+}
